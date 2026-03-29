@@ -9,9 +9,9 @@ No solo encuentro bugs — construyo sistemas que los previenen.
 ### Lo que hago
 
 - Diseño **frameworks de automatización** desde cero
-- Lidero equipos de QA engineers como **Scrum Master**
+- Lidero equipos de QA engineers.
 - Integro **IA en mi flujo diario** de testing (Claude, MCP, agentes)
-- Enseño automatización en **Project Academy** (Foo Talent Group)
+- Enseño automatización.
 - Escribo sobre QA, IA y liderazgo técnico en **Calidad sin Humo**
 
 ---
