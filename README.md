@@ -1,6 +1,6 @@
 # Hola, soy Adriana Troche Robles
 
-**QA Senior & Scrum Master** con 15 años de experiencia construyendo calidad de software en 4 sectores: gobierno, fintech, healthtech y verificación de identidad con IA.
+**QA Senior · Analista Funcional · Scrum Master** con 15 años construyendo calidad de software en 4 sectores: gobierno, fintech, healthtech y verificación de identidad con IA.
 
 No solo encuentro bugs — construyo sistemas que los previenen.
 
@@ -9,9 +9,9 @@ No solo encuentro bugs — construyo sistemas que los previenen.
 ### Lo que hago
 
 - Diseño **frameworks de automatización** desde cero
-- Lidero equipos de QA engineers.
+- Lidero equipos de QA engineers
 - Integro **IA en mi flujo diario** de testing (Claude, MCP, agentes)
-- Enseño automatización.
+- Enseño automatización — **docente en Project Academy (Foo Talent Group)**
 - Escribo sobre QA, IA y liderazgo técnico en **Calidad sin Humo**
 
 ---
@@ -23,6 +23,7 @@ No solo encuentro bugs — construyo sistemas que los previenen.
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **Lenguajes**
@@ -32,7 +33,7 @@ No solo encuentro bugs — construyo sistemas que los previenen.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**IA & Herramientas**
+**IA, CI & Herramientas**
 
 ![Claude](https://img.shields.io/badge/Claude_AI-191919?style=flat&logo=anthropic&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
@@ -45,23 +46,25 @@ No solo encuentro bugs — construyo sistemas que los previenen.
 
 | Proyecto | Stack | Descripción |
 |----------|-------|-------------|
+| [laboratorio-istqb-parte-3](https://github.com/adrianagit87/laboratorio-istqb-parte-3) | Playwright + TypeScript | Ecommerce local + 30 tests que aplican las 4 técnicas de diseño del syllabus ISTQB. Companion del blog |
+| [qa-devops-ai-challenge](https://github.com/adrianagit87/qa-devops-ai-challenge) | CI/CD + K6/JMeter | Flujo completo de calidad: quality gates, performance, DevSecOps y testing de IA |
+| [sdd-demo-registro](https://github.com/adrianagit87/sdd-demo-registro) | Spec-Driven Development | El mismo spec con dos templates: de 42% a 97% de conformidad. Companion de la serie SDD |
+| [playwright-kit-profesional](https://github.com/adrianagit87/playwright-kit-profesional) | Playwright + TypeScript | Kit de arranque profesional para automatización, parte del ecosistema Calidad sin Humo |
+| [calidad-sin-humo-mobile-ci-maestro](https://github.com/adrianagit87/calidad-sin-humo-mobile-ci-maestro) | Maestro + GitHub Actions | Mobile testing en CI sin emuladores manuales. Companion de la guía Mobile |
 | [qa-portfolio-restful-booker](https://github.com/adrianagit87/qa-portfolio-restful-booker) | Playwright + TypeScript | API & UI testing con CI/CD en GitHub Actions |
-| [qa-technical-challenge](https://github.com/adrianagit87/qa-technical-challenge) | Playwright + TypeScript | 24 tests E2E — auth, social, accesibilidad, mensajería |
-| [demoqa-screenplay](https://github.com/adrianagit87/demoqa-screenplay) | Playwright + TypeScript | Screenplay pattern implementado manualmente |
-| [saucedemo-automation](https://github.com/adrianagit87/saucedemo-automation) | Playwright + Cucumber | BDD con Screenplay pattern |
-| [selenium-java-testng-demo](https://github.com/adrianagit87/selenium-java-testng-demo) | Selenium 4 + Java 17 | Page Object + TestNG + GitHub Actions |
-| [roman-tdd-jest](https://github.com/adrianagit87/roman-tdd-jest) | TypeScript + Jest | TDD — conversor de números romanos |
 
 ---
 
 ### Calidad sin Humo — Mi blog
 
-Escribo sobre QA, automatización, IA aplicada y liderazgo técnico. Sin humo, sin teoría vacía — solo experiencia real.
+Escribo sobre QA, automatización, IA aplicada y liderazgo técnico. Sin humo, sin teoría vacía — solo experiencia real, con código que corre.
 
 **Tres pilares:**
 - **QA que piensa** — técnicas reales que los equipos no usan
-- **IA para QA** — cómo uso IA en mi día a día, sin buzzwords
+- **IA para QA** — cómo uso Claude, MCP y agentes en mi día a día, sin buzzwords
 - **Liderando calidad** — shift-left, quality gates, equipos reales
+
+**Series ancla:** Loop/Goal/Harness · ISTQB con código · Construye tu equipo de agentes QA. Varias vienen con repositorio para clonar y practicar.
 
 ---
 
