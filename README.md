@@ -86,6 +86,7 @@ Escribo sobre QA, automatización, IA aplicada y liderazgo técnico. Sin humo, s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-troche-robles)
 [![Blog](https://img.shields.io/badge/Calidad_sin_Humo-0E94A5?style=flat&logo=astro&logoColor=white)](https://calidadsinhumo.com)
+[![Academia](https://img.shields.io/badge/Academia_sin_Humo-6D28D9?style=flat&logo=googleclassroom&logoColor=white)](https://playground.calidadsinhumo.com/)
 
 ---
 
