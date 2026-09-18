@@ -69,7 +69,7 @@ Lo que uso todos los días, gratis y abierto para que lo uses vos también.
 
 ---
 
-### Calidad sin Humo — Mi blog
+### [Calidad sin Humo](https://calidadsinhumo.com) — Mi blog
 
 Escribo sobre QA, automatización, IA aplicada y liderazgo técnico. Sin humo, sin teoría vacía — solo experiencia real, con código que corre.
 
