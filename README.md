@@ -42,6 +42,16 @@ No solo encuentro bugs — construyo sistemas que los previenen.
 
 ---
 
+### Herramienta
+
+Lo que uso todos los días, gratis y abierto para que lo uses vos también.
+
+| Proyecto | Stack | Descripción |
+|----------|-------|-------------|
+| **[qa-harness-pro](https://github.com/adrianagit87/qa-harness-pro)** | Skills + MCP + hooks | Harness para dirigir agentes de QA. Gates deterministas que bloquean comandos destructivos y publicaciones a medio hacer — el agente no puede saltárselos. 85 tests unitarios + 254 asserts de integración, verificado en Claude Code, Cursor y Antigravity |
+
+---
+
 ### Proyectos destacados
 
 | Proyecto | Stack | Descripción |
