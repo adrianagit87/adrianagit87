@@ -11,7 +11,7 @@ No solo encuentro bugs — construyo sistemas que los previenen.
 - Diseño **frameworks de automatización** desde cero
 - Lidero equipos de QA engineers y defino la estrategia de calidad
 - Integro **IA en mi flujo diario** de testing (Claude, MCP, agentes)
-- Enseño automatización — **docente en Project Academy (Foo Talent Group)**
+- Enseño automatización — **docente en TesteandoYa**
 - Escribo sobre QA, IA y liderazgo técnico en **Calidad sin Humo**
 
 ---
