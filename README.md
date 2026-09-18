@@ -82,6 +82,19 @@ Escribo sobre QA, automatización, IA aplicada y liderazgo técnico. Sin humo, s
 
 ---
 
+### [Academia sin Humo](https://playground.calidadsinhumo.com/) — donde se practica
+
+El blog explica el método. La academia es donde lo aplicás, sobre algo que se rompe de verdad.
+
+- **5 cursos paso a paso** — programación, Playwright, IA, APIs y CI/CD
+- **Laboratorio con 17 bugs escondidos** — una app funcional para encontrarlos aplicando técnicas de diseño de pruebas
+- **7 escenarios ISTQB** — registro, login, inscripción, progreso, reservas, paginación y subida de archivos, con partición de equivalencia y valores límite
+- **Sandbox aparte** — credenciales de demo, sin tocar cuentas reales
+
+Se practica con las mismas herramientas que uso a diario: [qa-harness-pro](https://github.com/adrianagit87/qa-harness-pro) para dirigir al agente y [playwright-kit-profesional](https://github.com/adrianagit87/playwright-kit-profesional) para arrancar la suite.
+
+---
+
 ### Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-troche-robles)
